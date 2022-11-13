@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://qwq-1127.github.io/manifest.json</loc>
+    <loc>https://love.qwq1127.cn/manifest.json</loc>
     
     <lastmod>2022-11-12</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://qwq-1127.github.io/2022/11/11/my-first-article/</loc>
+    <loc>https://love.qwq1127.cn/2022/11/11/my-first-article/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://qwq-1127.github.io/2022/11/11/hello-world/</loc>
+    <loc>https://love.qwq1127.cn/2022/11/11/hello-world/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -30,7 +30,7 @@
   
 
   <url>
-    <loc>https://qwq-1127.github.io/</loc>
+    <loc>https://love.qwq1127.cn/</loc>
     <lastmod>2022-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
