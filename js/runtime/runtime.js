@@ -16,8 +16,8 @@ function createtime() {
   let currentTimeHtml = "";
   (currentTimeHtml =
     hnum < 18 && hnum >= 9
-      ? `<img class='boardsign' src='https://npm.elemecdn.com//qwq723@1.0.4/our.svg' title=''><span class='textTip'> <br> 我们在一起了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`
-      : `<img class='boardsign' src='https://npm.elemecdn.com//qwq723@1.0.4/our.svg' title=''><span class='textTip'> <br> 我们在一起了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),
+      ? `<img class='boardsign' src='https://img.qwq1127.cn/img/19900150-1012-41d9-9b05-20a23444b9cd.png' title=''><span class='textTip'> <br> 我们在一起了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`
+      : `<img class='boardsign' src='https://img.qwq1127.cn/img/19900150-1012-41d9-9b05-20a23444b9cd.png' title=''><span class='textTip'> <br> 我们在一起了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),
     document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }
 setInterval(() => {
